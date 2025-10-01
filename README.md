@@ -16,12 +16,11 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=kh-ub-ayb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />  -->
-  <img src="https://nirzak-streak-stats.vercel.app?user=kh-ub-ayb&theme=nightowl" height="160" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ub-ayb&layout=compact&theme=radical' height="160"/>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ub-ayb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/> -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=kh-ub-ayb&hide_border=false&background=0D1117&ring=FFD339&fire=FFD339&currStreakNum=FFD339&sideNums=FFD339&currStreakLabel=CED4DA&sideLabels=CED4DA&dates=CED4DA)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ub-ayb&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)
+ 
 </div>
 <br>
 <p align="center">
@@ -69,6 +68,7 @@
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
+
 
 
 
