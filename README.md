@@ -54,7 +54,7 @@
 
 
   <h4>
-    Contact me:
+    Contact me:-
   </h4>
   <a href="mailto:syedkhubayb09@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
