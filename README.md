@@ -28,7 +28,7 @@
 </p>
 <div align="left">
   <h4>
-    My Tech Stack:
+    My Tech Stack:-
   </h4>  
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
