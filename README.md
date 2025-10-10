@@ -69,6 +69,10 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
+  <h4>
+    Badges:
+  </h4>
+
 [![An image of @khubayb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khubayb)](https://holopin.io/@khubayb)
 
 
