@@ -70,7 +70,7 @@
 </p>
 
   <h4>
-    Badges:
+    Badges:-
   </h4>
 
 [![An image of @khubayb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khubayb)](https://holopin.io/@khubayb)
