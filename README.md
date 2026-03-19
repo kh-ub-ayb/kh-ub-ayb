@@ -17,10 +17,11 @@
 
 <div align="center">
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ub-ayb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/> -->
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kh-ub-ayb&hide_border=false&background=0D1117&ring=FFD339&fire=FFD339&currStreakNum=FFD339&sideNums=FFD339&currStreakLabel=CED4DA&sideLabels=CED4DA&dates=CED4DA)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ub-ayb&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ub-ayb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ub-ayb&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/>
+
 </div>
 <br>
 <p align="center">
