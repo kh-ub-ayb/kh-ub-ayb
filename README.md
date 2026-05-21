@@ -3,7 +3,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 <h4 align="left">
-🤝 Connect with me at syedkhubayb09@gmail.com<br>
+🤝 Connect with me at khubayb05@gmail.com<br>
 </h4>
 
 <div align="right">
