@@ -6,7 +6,7 @@
 🤝 Connect with me at khubayb05@gmail.com<br>
 </h4>
 
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=kh-ub-ayb&abbreviated=true&for-the-badge"  height="25" />
 </div>
 <div align="center">
@@ -22,7 +22,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ub-ayb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ub-ayb&hide_border=false&layout=compact&bg_color=0D1117&title_color=FFD339&text_color=CED4DA&icon_color=FFD339)<br/>
  -->
-</div>
+<!-- </div>
 <br>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -77,7 +77,7 @@
 [![An image of @khubayb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khubayb)](https://holopin.io/@khubayb)
 
 
-
+ --> 
 
 
 
